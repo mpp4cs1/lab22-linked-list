@@ -1,0 +1,30 @@
+{
+  "Logo": false, // hides the Codio logo
+  "Codio": false, // hides the Codio menu dropdown
+  "Project": false,
+  "Help": {
+    "Help center": false,
+    "Blog": false,
+    "Codio.com": false,
+    "System Status": false,
+    "Support": false
+  }, // hides the Help menu dropdown
+  "View": {
+    "Go to Call": false,
+    "File Tree": false
+  },
+  "Tools": {
+    "Install Software": false,
+    "Debugger Settings": false,
+    "Code Playback": false,
+    "JUnit": false,
+    "Deployment": false,
+    "Git": false,
+    "SSH": false,
+    "Command bar": false
+  },
+  "Run": false, // hides the Run menu dropdown
+  "Preview": true, // hides the Preview menu dropdown
+  "Debugger": false, // hides the Debugger menu dropdown
+  "Status": false // hides the Status icon, user Avatar, user name and exit button
+}

@@ -1,0 +1,9 @@
+{
+  // Configure your Run and Preview buttons here.
+
+  // Preview button configuration
+  "preview": {
+    "VS Code": "https://{{domain4000}}/"
+  },
+  "autogradeTestScripts": ["python3 .guides/secure/autograde.py"]
+}

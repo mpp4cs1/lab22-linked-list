@@ -1,0 +1,18 @@
+{
+	"id": "c3237ee9-404e-2f8d-c42e-8006946531b1",
+	"title": "Hexadecimal",
+	"files": [
+		{
+			"path": "#preview: https://{{domain4000}}/",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}
